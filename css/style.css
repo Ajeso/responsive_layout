@@ -36,7 +36,9 @@ nav ul li a {
   color: black;
   font-weight: 900;
 }
-
+nav h2 {
+  color: midnightblue;
+}
 .home {
   padding-top: 25px;
   display: flex;
