@@ -65,6 +65,27 @@ nav ul li a {
 .portfolio figcaption p {
   padding-top: 15px;
 }
+.skills {
+  text-align: center;
+  padding: 24px;
+}
+
+.skills p {
+  padding: 12px;
+}
+
+.skills li {
+  border-radius: 6px;
+  display: inline-block;
+  background: #ff9904;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+
+.skills li:nth-child(odd) {
+  background: #0399ff;
+}
 
 .contact {
   text-align: center;
@@ -156,6 +177,9 @@ hr {
   }
   footer nav h2 {
     margin-top: 2rem;
+  }
+  .skills p {
+    font-size: 20px;
   }
 }
 
