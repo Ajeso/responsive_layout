@@ -1,6 +1,8 @@
-# RESPONSIVE LAYOUT #
+# [RESPONSIVE LAYOUT](https://responsive-layout-gold.vercel.app/) #
 
 The second project of my Techdegree course. This project entailed first creating  mobile responsive layout then the tablet and lastly the desktop layout. In this project there were many things to grasp the major being **Flexbox and the properties,Media Queries**.I have learnt is that when you start with the mobile design you get to write less code compared to vice versa
+
+![Screenshot](https://github.com/[Ajeso]/[reponsive_layout]/blob/[main]/responsive_layout.png?raw=true)
 
 ## Instructions ##
 
