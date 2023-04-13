@@ -186,17 +186,25 @@ hr {
 }
 
 @media (min-width: 1024px) {
+  header {
+    padding: 1rem 2rem;
+  }
   header nav {
     display: flex;
     justify-content: space-between;
     padding: 24px 15px;
     align-items: center;
   }
+  .home p {
+    font-size: 25px;
+  }
+
   .home img {
     width: 100%;
   }
   .container {
     width: 1024px;
+    margin: auto;
   }
 
   .container > * {
